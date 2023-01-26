@@ -31,6 +31,6 @@ Here is the confusion matrix: \
 The model performs well on all categories. \
 Now, let's visualize the prediction! \
 ![alt text](https://github.com/noiper/Flower-Recognition/blob/main/images/fig2.png) \
-These are some pictures from the test set. The names in parenthesis are the true labels, and red indicates a misclassification. \
+These are some pictures from the test set. The names in parenthesis are the true labels, and red indicates a misclassification.
 
 Thank you!
